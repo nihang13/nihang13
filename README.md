@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/nihang13/nihang13/blob/main/1680705117421.jpg)
 <img align="right" alt="coding" width="400" src="https://github.com/nihang13/nihang13/blob/main/gif.gif">
-<h1 align="center">Hi 👋, I'm Bipin Nihang Rai</h1>
+<h1 align="center">🛸Hi , I'm Bipin Nihang Rai!🛸</h1>
 
 
 <h4 align="center"> Currently undergoing training in Python with Django. Passionate about web development and building scalable applications.</h4>
