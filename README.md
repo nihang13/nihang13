@@ -2,8 +2,7 @@
 ![logo](https://github.com/nihang13/nihang13/blob/main/1680705117421.jpg)
 <img align="right" alt="coding" width="400" src="https://github.com/nihang13/nihang13/blob/main/gif.gif">
 <h1 align="center">Hi 👋, I'm Bipin Nihang Rai</h1>
-<!--
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>-->
+
 
 <h4 align="center"> Currently undergoing training in Python with Django. Passionate about web development and building scalable applications.</h4>
 
@@ -43,12 +42,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihang13&layout=compact&theme=tokyonight)
 
-### GitHub Stats
+
+### GitHub Stats:
 
 ![Nihang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihang13&show_icons=true&theme=tokyonight)
+
+### GitHub Streak:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihang13&theme=tokyonight" alt="nihang13" /></p>
 
 ### Github Trophies:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nihang13)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihang13&label=Profile%20views&color=0e75b6&style=flat" alt="nihang13" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihang13&label=Profile%20views&color=0e75b6&style=flat" alt="nihang13" /> </p>
